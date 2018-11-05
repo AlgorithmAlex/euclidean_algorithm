@@ -1,4 +1,4 @@
-function calc(){
+function calc_euclidean_algorithm(){
     var first = document.getElementById("first").value;
     var second = document.getElementById("second").value;
     var rest = 1;
